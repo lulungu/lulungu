@@ -37,6 +37,4 @@
 <img src="https://media.giphy.com/media/qVifQgT5H5Gn7sVHvw/giphy-downsized-large.gif" width="500"/>
 </div>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lulungu&show_icons=true&locale=en" alt="lulungu" /></p>
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lulungu&" alt="lulungu" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lulungu&show_icons=true&locale=en" alt="lulungu"  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lulungu&" alt="lulungu" /></p>
