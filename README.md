@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulungu" alt="lulungu" /></a> </p>
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-zzDvEA7LAo51SHK8Mv" width="100"/>
+  <iframe src="https://giphy.com/embed/zzDvEA7LAo51SHK8Mv" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-zzDvEA7LAo51SHK8Mv">via GIPHY</a></p>
 </div>
 
 - 🌱 I’m currently learning **Java Web Project, Software Testing and Requirement**
