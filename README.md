@@ -17,6 +17,8 @@
 - 📫 How to reach me **Lusscorner@gmail.com**
 
 - ⚡ Fun fact **Im Ugly Kaka**
+  
+  <p align="mid"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulungu" alt="lulungu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
