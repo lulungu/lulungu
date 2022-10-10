@@ -7,7 +7,7 @@
 
 <div id="header" align="center">
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zzDvEA7LAo51SHK8Mv/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/zzDvEA7LAo51SHK8Mv/giphy.gif" width="500"/>
 </div>
 
 - 🌱 I’m currently learning **Java Web Project, Software Testing and Requirement**
