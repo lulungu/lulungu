@@ -14,7 +14,7 @@
 
  📫 How to reach me **Lusscorner@gmail.com**
 
- ⚡ Fun fact **Im Ugly Kaka**
+ ⚡ Fun fact **My dream is become gardener not IT Dev...**
   
   <p align="mid"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulungu" alt="lulungu" /></a> </p>
 
