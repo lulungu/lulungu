@@ -41,7 +41,7 @@
 <img src="https://media.giphy.com/media/qVifQgT5H5Gn7sVHvw/giphy-downsized-large.gif" width="500"/>
 </div>
 
-  ## MY STAT
+  ##  💻 MY STAT
   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lulungu&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
   
