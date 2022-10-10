@@ -8,13 +8,13 @@
   <img src="https://media.giphy.com/media/zzDvEA7LAo51SHK8Mv/giphy.gif" width="500"/>
 </div>
 
-- 🌱 I’m currently learning **Java Web Project, Software Testing and Requirement**
+ 🌱 I’m currently learning **Java Web Project, Software Testing and Requirement**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lulungu](https://github.com/lulungu)
+ 👨‍💻 All of my projects are available at [https://github.com/lulungu](https://github.com/lulungu)
 
-- 📫 How to reach me **Lusscorner@gmail.com**
+ 📫 How to reach me **Lusscorner@gmail.com**
 
-- ⚡ Fun fact **Im Ugly Kaka**
+ ⚡ Fun fact **Im Ugly Kaka**
   
   <p align="mid"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulungu" alt="lulungu" /></a> </p>
 
